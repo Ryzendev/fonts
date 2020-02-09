@@ -1,5 +1,5 @@
 dependencies:
-  discord.js: github.com/discordjs/discord.js/b4e56d3e0e8c3bf242d6bf52af03b0826af62bd8
+  discord.js: github.com/discordjs/discord.js/fe7df708e44e0280dfaf0f8e457b154781bb5140
   opusscript: 0.0.7
   simple-youtube-api: 5.2.1
   ytdl-core: 1.0.7
@@ -218,7 +218,7 @@ packages:
     resolution:
       tarball: 'https://codeload.github.com/discordapp/erlpack/tar.gz/5d0064f9e106841e1eead711a6451f99b0d289fd'
     version: 0.1.3
-  github.com/discordjs/discord.js/b4e56d3e0e8c3bf242d6bf52af03b0826af62bd8:
+  github.com/discordjs/discord.js/fe7df708e44e0280dfaf0f8e457b154781bb5140:
     dependencies:
       '@discordjs/collection': 0.1.3
       abort-controller: 3.0.0
@@ -240,8 +240,7 @@ packages:
       utf-8-validate: ^5.0.2
       zlib-sync: ^0.1.6
     resolution:
-      registry: 'https://registry.npmjs.org/'
-      tarball: 'https://codeload.github.com/discordjs/discord.js/tar.gz/b4e56d3e0e8c3bf242d6bf52af03b0826af62bd8'
+      tarball: 'https://codeload.github.com/discordjs/discord.js/tar.gz/fe7df708e44e0280dfaf0f8e457b154781bb5140'
     version: 12.0.0-dev
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
